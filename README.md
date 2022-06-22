@@ -1,2 +1,2 @@
-# learn-english
+# learning-english
 English learning notes and other items
